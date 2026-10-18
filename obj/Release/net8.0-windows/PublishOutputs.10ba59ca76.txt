@@ -1,0 +1,9 @@
+C:\Users\HHS\Desktop\Opencode\pc-pulse\publish\PCPulse.exe
+C:\Users\HHS\Desktop\Opencode\pc-pulse\publish\Data\hardware-tiers.json
+C:\Users\HHS\Desktop\Opencode\pc-pulse\publish\Data\requirements.json
+C:\Users\HHS\Desktop\Opencode\pc-pulse\publish\PCPulse.dll
+C:\Users\HHS\Desktop\Opencode\pc-pulse\publish\PCPulse.deps.json
+C:\Users\HHS\Desktop\Opencode\pc-pulse\publish\PCPulse.runtimeconfig.json
+C:\Users\HHS\Desktop\Opencode\pc-pulse\publish\PCPulse.pdb
+C:\Users\HHS\Desktop\Opencode\pc-pulse\publish\System.Management.dll
+C:\Users\HHS\Desktop\Opencode\pc-pulse\publish\runtimes\win\lib\net8.0\System.Management.dll

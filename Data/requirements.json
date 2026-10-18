@@ -1,0 +1,140 @@
+[
+  {
+    "Name": "Cyberpunk 2077",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "GTX 1060 6GB", "ram": "12 GB", "storage": "70 GB SSD" },
+    "Rec": { "cpu": "6 cores", "gpu": "RTX 2060", "ram": "16 GB", "storage": "70 GB SSD" }
+  },
+  {
+    "Name": "GTA V",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "GTX 660 2GB", "ram": "4 GB", "storage": "72 GB" },
+    "Rec": { "cpu": "6 cores", "gpu": "GTX 1060 6GB", "ram": "8 GB", "storage": "72 GB SSD" }
+  },
+  {
+    "Name": "GTA 6",
+    "Type": "game",
+    "Min": { "cpu": "8 cores", "gpu": "RTX 2070", "ram": "16 GB", "storage": "150 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "RTX 3080", "ram": "32 GB", "storage": "150 GB NVMe" }
+  },
+  {
+    "Name": "Red Dead Redemption 2",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "GTX 770 2GB", "ram": "8 GB", "storage": "150 GB" },
+    "Rec": { "cpu": "6 cores", "gpu": "GTX 1060 6GB", "ram": "12 GB", "storage": "150 GB SSD" }
+  },
+  {
+    "Name": "Elden Ring",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "GTX 1060 3GB", "ram": "12 GB", "storage": "60 GB" },
+    "Rec": { "cpu": "6 cores", "gpu": "RTX 2070", "ram": "16 GB", "storage": "60 GB SSD" }
+  },
+  {
+    "Name": "Call of Duty Modern Warfare III",
+    "Type": "game",
+    "Min": { "cpu": "6 cores", "gpu": "GTX 1060", "ram": "8 GB", "storage": "149 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "RTX 3060", "ram": "16 GB", "storage": "149 GB NVMe" }
+  },
+  {
+    "Name": "Baldur's Gate 3",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "GTX 970", "ram": "8 GB", "storage": "150 GB SSD" },
+    "Rec": { "cpu": "6 cores", "gpu": "RTX 2060 Super", "ram": "16 GB", "storage": "150 GB SSD" }
+  },
+  {
+    "Name": "Adobe Premiere Pro",
+    "Type": "app",
+    "Min": { "cpu": "6 cores", "gpu": "2 GB VRAM", "ram": "16 GB", "storage": "8 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "4 GB VRAM", "ram": "32 GB", "storage": "Fast NVMe SSD" }
+  },
+  {
+    "Name": "Adobe Photoshop",
+    "Type": "app",
+    "Min": { "cpu": "4 cores", "gpu": "1.5 GB VRAM", "ram": "8 GB", "storage": "4 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "4 GB VRAM", "ram": "16 GB", "storage": "Fast SSD" }
+  },
+  {
+    "Name": "DaVinci Resolve",
+    "Type": "app",
+    "Min": { "cpu": "4 cores", "gpu": "2 GB VRAM", "ram": "16 GB", "storage": "SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "4 GB VRAM", "ram": "32 GB", "storage": "Fast NVMe SSD" }
+  },
+  {
+    "Name": "Blender",
+    "Type": "app",
+    "Min": { "cpu": "4 cores", "gpu": "2 GB VRAM", "ram": "8 GB", "storage": "500 MB" },
+    "Rec": { "cpu": "8 cores", "gpu": "8 GB VRAM", "ram": "32 GB", "storage": "SSD" }
+  },
+  {
+    "Name": "Fortnite",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "Intel HD 4000", "ram": "4 GB", "storage": "26 GB" },
+    "Rec": { "cpu": "6 cores", "gpu": "GTX 960", "ram": "8 GB", "storage": "26 GB SSD" }
+  },
+  {
+    "Name": "Minecraft",
+    "Type": "game",
+    "Min": { "cpu": "2 cores", "gpu": "Intel HD 4000", "ram": "4 GB", "storage": "1 GB" },
+    "Rec": { "cpu": "4 cores", "gpu": "GTX 750", "ram": "8 GB", "storage": "4 GB SSD" }
+  },
+  {
+    "Name": "Valorant",
+    "Type": "game",
+    "Min": { "cpu": "2 cores", "gpu": "Intel HD 3000", "ram": "4 GB", "storage": "1 GB" },
+    "Rec": { "cpu": "4 cores", "gpu": "GTX 1050 Ti", "ram": "8 GB", "storage": "SSD" }
+  },
+  {
+    "Name": "Apex Legends",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "GTX 970", "ram": "8 GB", "storage": "22 GB" },
+    "Rec": { "cpu": "6 cores", "gpu": "GTX 1660", "ram": "12 GB", "storage": "22 GB SSD" }
+  },
+  {
+    "Name": "Overwatch 2",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "GTX 600 series", "ram": "6 GB", "storage": "50 GB" },
+    "Rec": { "cpu": "6 cores", "gpu": "GTX 1060", "ram": "8 GB", "storage": "50 GB SSD" }
+  },
+  {
+    "Name": "Forza Horizon 5",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "GTX 970", "ram": "8 GB", "storage": "110 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "RTX 2070", "ram": "16 GB", "storage": "110 GB SSD" }
+  },
+  {
+    "Name": "Hogwarts Legacy",
+    "Type": "game",
+    "Min": { "cpu": "8 cores", "gpu": "GTX 1070", "ram": "16 GB", "storage": "85 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "RTX 3070", "ram": "32 GB", "storage": "85 GB NVMe" }
+  },
+  {
+    "Name": "The Witcher 3 Wild Hunt",
+    "Type": "game",
+    "Min": { "cpu": "4 cores", "gpu": "GTX 660", "ram": "6 GB", "storage": "50 GB" },
+    "Rec": { "cpu": "6 cores", "gpu": "GTX 1070", "ram": "8 GB", "storage": "50 GB SSD" }
+  },
+  {
+    "Name": "Starfield",
+    "Type": "game",
+    "Min": { "cpu": "8 cores", "gpu": "GTX 1070 Ti", "ram": "16 GB", "storage": "125 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "RTX 2080", "ram": "16 GB", "storage": "125 GB NVMe" }
+  },
+  {
+    "Name": "Microsoft Visual Studio",
+    "Type": "app",
+    "Min": { "cpu": "4 cores", "gpu": "1 GB VRAM", "ram": "8 GB", "storage": "20 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "2 GB VRAM", "ram": "32 GB", "storage": "50 GB NVMe SSD" }
+  },
+  {
+    "Name": "AutoCAD",
+    "Type": "app",
+    "Min": { "cpu": "4 cores", "gpu": "1 GB VRAM", "ram": "8 GB", "storage": "9 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "4 GB VRAM", "ram": "32 GB", "storage": "9 GB NVMe SSD" }
+  },
+  {
+    "Name": "SolidWorks",
+    "Type": "app",
+    "Min": { "cpu": "4 cores", "gpu": "2 GB VRAM", "ram": "16 GB", "storage": "10 GB SSD" },
+    "Rec": { "cpu": "8 cores", "gpu": "4 GB VRAM", "ram": "32 GB", "storage": "10 GB NVMe SSD" }
+  }
+]
